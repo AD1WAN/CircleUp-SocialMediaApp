@@ -24,6 +24,9 @@ SocialMediaApp is a comprehensive social platform built for Android users, offer
 - Firebase Authentication and Realtime Database
 - RecyclerView
 - Android Studio
+- PhotoPicker Library
+- Glide
+- DateTimeUtlis
 
 ## Getting Started
 
